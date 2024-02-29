@@ -1,8 +1,5 @@
-# React + Vite
+# WANTED:React Hands-On Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pre-missions are intended for commitment to participate in the challenge and to prepare for learning.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [WANTED:React Hands-On Guide](https://www.wanted.co.kr/events/pre_challenge_fe_19)
